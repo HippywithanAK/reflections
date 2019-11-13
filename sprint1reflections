@@ -18,9 +18,27 @@ mkdir : create a new directory
 
 Didn't really learn anything new here but it was a good refresher.
 
-
+______________________________________________________________________________________
 
 Git 
+
+Git is a commandline application used for managing workflow on a project.  
+GitHub is an online source code repository. Git is able to push and pull versions of a 
+project to and from GitHub. Git Hub can be veiwed in browser and projects made accessable 
+anyone.
+
+Git is like an online game running on your computer. Your computer is where must of the 
+work is being done, but it sends or "pushes" information to the server (GitHub), so that it  
+can tell eveyone else connected to the server where you are and what you're doing.   
+Like wise, the server will send your computer information about the state of other players 
+in the game. Just like pull requests from GitHub inform your code of the work done by other 
+collaborators.
+
+I will definitely still remember the difference between Git and GitHub a week from now.
+
+I mostly stuck to the timebox suggestions. Got a little stuck fixing push confilcts.
+
+__________________________________________________________________________________________
 
 GitHub workflow is a means by which peolpe can colaborate on software projects, while
 minimising the chances of someone fucking up everyones work. It provides an online back up
@@ -50,4 +68,6 @@ boneheaded to just look it up.
 If I were to do todays leason again, I would take my time more with the introductory 
 steps. By rushing in to trying to do everything immediatly, I missed the bigger picture of 
 the importance of workflow and made git seem harder than it is.
+
+______________________________________________________________________________________
 
