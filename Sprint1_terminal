@@ -6,7 +6,7 @@ It is similar to how old text based adventure games worked. Only specific comman
 I had no problems with sticking to timebox guidlines as I have previous experience with terminal / command line.
 
 Five useful commands for the terminal are:
-unix/ win
+unix / win
 ls / dir : list files and directries in current directory 
 pwd / echo%cd% : present working directory (where am I now?)
 cd .. : back one directory
