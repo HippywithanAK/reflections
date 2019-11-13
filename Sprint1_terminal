@@ -1,0 +1,16 @@
+Terminal Reflections
+
+The command line is a text based interface for interacting with files, programes, and directories on your computer. 
+It is similar to how old text based adventure games worked. Only specific commands will be understood by the computer.
+
+I had no problems with sticking to timebox guidlines as I have previous experience with terminal / command line.
+
+Five useful commands for the terminal are:
+unix/ win
+ls / dir : list files and directries in current directory 
+pwd / echo%cd% : present working directory (where am I now?)
+cd .. : back one directory
+cd dirName  : move to dirName
+mkdir : create a new directory
+
+Didn't really learn anything new hear but it was a good refresher.
