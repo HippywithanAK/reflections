@@ -1,7 +1,7 @@
 Reflections
 
 
-Command Line
+1.Command Line
 
 The command line is a text based interface for interacting with files, programes, and directories on your computer. 
 It is similar to how old text based adventure games worked. Only specific commands will be understood by the computer.
@@ -22,7 +22,8 @@ ________________________________________________________________________________
 
 Git 
 
-Git is a commandline application used for managing workflow on a project.  
+
+2.Git is a commandline application used for managing workflow on a project.  
 GitHub is an online source code repository. Git is able to push and pull versions of a 
 project to and from GitHub. Git Hub can be veiwed in browser and projects made accessable 
 anyone.
@@ -36,11 +37,11 @@ collaborators.
 
 I will definitely still remember the difference between Git and GitHub a week from now.
 
-I mostly stuck to the timebox suggestions. Got a little stuck fixing push confilcts.
+I mostly stuck to the timebox suggestions. 
 
 __________________________________________________________________________________________
 
-GitHub workflow is a means by which peolpe can colaborate on software projects, while
+3.GitHub workflow is a means by which peolpe can colaborate on software projects, while
 minimising the chances of someone fucking up everyones work. It provides an online back up
 which can be cloned onto any invited parties machine. Once stored locally it can be  worked    
 on seperate from the colaborative work, stored online.
@@ -70,4 +71,17 @@ steps. By rushing in to trying to do everything immediatly, I missed the bigger 
 the importance of workflow and made git seem harder than it is.
 
 ______________________________________________________________________________________
+
+
+4.Stage and commit is a process used to place files into a
+sort of holding position before being added into a project. 
+Say I'm working on an easay and I want to make some changes. 
+I can add small changes to the staging area as I go and then 
+when I'm happy with my work I can commit them to my original.
+This way, at no point is my original at risk of being accidently
+written over, deleted or lost. Nothing I put in the staging area 
+will affect it untill I am ready to commit.
+
+______________________________________________________________________________________
+
 
