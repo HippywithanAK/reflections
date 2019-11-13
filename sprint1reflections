@@ -1,4 +1,4 @@
-Terminal Reflections
+Reflections
 
 The command line is a text based interface for interacting with files, programes, and directories on your computer. 
 It is similar to how old text based adventure games worked. Only specific commands will be understood by the computer.
@@ -14,3 +14,37 @@ cd dirName  : move to dirName
 mkdir : create a new directory
 
 Didn't really learn anything new here but it was a good refresher.
+
+
+
+Git 
+
+GitHub workflow is a means by which peolpe can colaborate on software projects, while
+minimising the chances of someone fucking up everyones work. It provides an online back up
+which can be cloned onto any invited parties machine. Once stored locally it can be  worked    
+on seperate from the colaborative work, stored online.
+The code on the local machine is splitt into a master branch and however many
+sub-branches one might need. Once happy with the work on a sub-branch, it can be merged 
+back into the main. 
+Changes can also be pushed to GitHub to save your changes to the online 
+copy. When pushing, there must not be any conflicts between your local and the online copy
+or it will fail.   
+To get an updated copy from GitHub you can use a pull command.
+This will update the local version of the branch you pulled, with any changes made to the 
+GitHub version.
+
+
+Today I realised how much trying to get ahead of myself holds me back. 
+When I take the time to uderstand the full process, before diving in and trying to brute 
+force myself through a subject, I get stuck a lot less often and am calmer about it When
+I do. I know I have been over what I'm trying to figure out and it is easier to go 
+back and find where I have been going wrong.
+Taking a short break, even just walking around for a minute, helps to clear my head when 
+I'm feeling blocked. And google usually has the answer when I've stopped being too 
+boneheaded to just look it up.
+
+
+If I were to do todays leason again, I would take my time more with the introductory 
+steps. By rushing in to trying to do everything immediatly, I missed the bigger picture of 
+the importance of workflow and made git seem harder than it is.
+
