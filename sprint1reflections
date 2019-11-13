@@ -82,6 +82,25 @@ This way, at no point is my original at risk of being accidently
 written over, deleted or lost. Nothing I put in the staging area 
 will affect it untill I am ready to commit.
 
-______________________________________________________________________________________
+_____________________________________________________________________________________
+
+What is Master?
+Why create a Branch?
+Do the concepts introduced feel intuitive or difficult to understand?
+
+5. The Master is the main branch of a project. It is where you eventually 
+merge in your divergent branchs once you are happy your Master will run 
+smoothly with the included changes.
+
+You create a branch so you can isolate changes from your main project (Master). This 
+allows you to safely test new code without effecting how your Master runs.
+
+These concepts feel fairly intuitive to me. 
+Once I got the flow of: edit -> check -> add -> check -> commit; things made sense.
+Still rushing my proof reading though, so sorry for the spelling mistakes  :/ (mild dyslexia).
+
+________________________________________________________________________________________________
+
+
 
 
